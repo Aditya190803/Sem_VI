@@ -1,0 +1,10 @@
+let experiments = [
+    { name: "Study of Artificial Neural Network", description: "Covering the history and background of ANNs." },
+    { name: "Activation Functions", description: "Exploring different types of activation functions." },
+    { name: "Introduction to Neural Networks and Perceptron Examples", description: "Introducing the Perceptron and its working principles." },
+    { name: "Perceptron Network", description: "Implementing logic functions using a Perceptron Network." },
+    { name: "Multilayer Perceptron and Application", description: "Exploring the architecture and applications of MLPs." },
+    { name: "Back Propagation Neural Network Algorithm", description: "Understanding the BPN algorithm for training neural networks." },
+    { name: "Support Vector Machine (SVM) Algorithm", description: "Introducing SVMs for classification and regression tasks." },
+    { name: "Bidirectional Associative Memory (BAM) Algorithm", description: "Exploring BAM for associative memory and pattern recognition." }
+];
